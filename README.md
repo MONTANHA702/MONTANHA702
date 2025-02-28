@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that improve my skills
 - 📫 How to reach me: For now, only on WA (+55 61 992179119)
 - 😄 Pronouns: You
-- ⚡ Fun fact: I've worked extensively with confilct resolution, now I will have some fun...
+- ⚡ Fun fact: I've worked extensively with confilct resolution, now I will have some fun... learning Python!!
 
 <!---
 MONTANHA702/MONTANHA702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
