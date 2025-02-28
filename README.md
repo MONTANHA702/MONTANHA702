@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Artificial Inteligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that improve my skills
-- 📫 How to reach me for now only on WA (+55 61 992179119)
+- 📫 How to reach me: For now, only on WA (+55 61 992179119)
 - 😄 Pronouns: You
 - ⚡ Fun fact: I've worked extensively with confilct resolution, now I will have some fun...
 
