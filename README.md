@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @MONTANHA702 (Apelido devido a um curso que fiz)
-- 👀 I’m interested in learning Tecnology
-- 🌱 I’m currently learning Python/Java
-- 💞️ I’m looking to collaborate on anything that improve my skills
-- 📫 How to reach me: For now, only on WA (+55 61 992179119)
-- 😄 Pronouns: You
-- ⚡ Fun fact: Matemático, professor e programador.
+# Olá, eu sou o MONTANHA702👋
 
-<!---
-MONTANHA702/MONTANHA702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Matemático e militar de formação, professor e entusiasta de dados. Busco aplicar o raciocínio lógico e analítico da matemática na construção de soluções tecnológicas eficientes.
+
+---
+
+### 💻 Sobre Mim
+
+* 👀 **Interesses:** Desenvolvimento de software, automação de processos, análise de dados e machine learning.
+* 🌱 **Evolução Contínua:** Atualmente focado no aprofundamento das linguagens **Python** e **Java**, explorando desde a lógica de programação até a criação de APIs e arquiteturas estruturadas.
+* 💞️ **Colaboração:** Aberto a contribuir em projetos de código aberto (open-source) e iniciativas acadêmicas ou profissionais que desafiem minhas habilidades.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** Python, Java
+* **Controle de Versão:** Git, GitHub
+* **Áreas de Afinidade:** Modelagem Matemática, Lógica de Programação, Desenvolvimento de APIs
+
+---
+
+### 📬 Vamos nos conectar?
+
+Se você quiser trocar ideias sobre tecnologia, educação, matemática ou desenvolvimento de projetos, sinta-se à vontade para entrar em contato:
+
+* 📱 **WhatsApp:** [+55 (61) 99217-9119](https://wa.me/5561992179119)
+* 💬 **Pronomes:** Ele / Dele (He / Him)
+
+---
+
+### ⚡ Curiosidade
+
+> "O apelido **Montanha** surgiu durante uma formação intensa que realizei."
+
