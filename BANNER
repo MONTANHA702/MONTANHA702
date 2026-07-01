@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0047AB"/>
+
+  <text x="600" y="90" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    Jader Silva
+  </text>
+  <text x="600" y="130" font-family="Verdana, Arial, sans-serif" font-size="22" fill="#CFE0FF" text-anchor="middle">
+    Java &amp; Python/Django &amp; Machine Learning
+  </text>
+
+  <!-- Badges -->
+  <g font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">
+    <rect x="60"  y="190" width="150" height="55" rx="10" fill="#ED8B00"/>
+    <text x="135" y="225" text-anchor="middle">Java</text>
+
+    <rect x="230" y="190" width="150" height="55" rx="10" fill="#3776AB"/>
+    <text x="305" y="225" text-anchor="middle">Python</text>
+
+    <rect x="400" y="190" width="150" height="55" rx="10" fill="#092E20"/>
+    <text x="475" y="225" text-anchor="middle">Django</text>
+
+    <rect x="570" y="190" width="170" height="55" rx="10" fill="#336791"/>
+    <text x="655" y="225" text-anchor="middle">PostgreSQL</text>
+
+    <rect x="760" y="190" width="170" height="55" rx="10" fill="#FF6F00"/>
+    <text x="845" y="225" text-anchor="middle">TensorFlow</text>
+
+    <rect x="950" y="190" width="170" height="55" rx="10" fill="#009688"/>
+    <text x="1035" y="225" text-anchor="middle">FastAPI</text>
+  </g>
+</svg>
