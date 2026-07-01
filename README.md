@@ -1,35 +1,23 @@
-# Olá, eu sou o MONTANHA702👋
+### 👋 Olá, eu sou Jader Silva
 
-Matemático e militar de formação, professor e entusiasta de dados. Busco aplicar o raciocínio lógico e analítico da matemática na construção de soluções tecnológicas eficientes.
-
----
-
-### 💻 Sobre Mim
-
-* 👀 **Interesses:** Desenvolvimento de software, automação de processos, análise de dados e machine learning.
-* 🌱 **Evolução Contínua:** Atualmente focado no aprofundamento das linguagens **Python** e **Java**, explorando desde a lógica de programação até a criação de APIs e arquiteturas estruturadas.
-* 💞️ **Colaboração:** Aberto a contribuir em projetos de código aberto (open-source) e iniciativas acadêmicas ou profissionais que desafiem minhas habilidades.
+🎓 Pós-graduado em Análise de Dados e Machine Learning
+☕ Aprofundando Java para atuação no mercado bancário/corporativo
+🐍 Desenvolvendo aplicações web com Python e Django
+📊 Experiência prévia em criação de materiais educacionais
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+**Stack principal:**
 
-* **Linguagens:** Python, Java
-* **Controle de Versão:** Git, GitHub
-* **Áreas de Afinidade:** Modelagem Matemática, Lógica de Programação, Desenvolvimento de APIs
-
----
-
-### 📬 Vamos nos conectar?
-
-Se você quiser trocar ideias sobre tecnologia, educação, matemática ou desenvolvimento de projetos, sinta-se à vontade para entrar em contato:
-
-* 📱 **WhatsApp:** [+55 (61) 99217-9119](https://wa.me/5561992179119)
-* 💬 **Pronomes:** Ele / Dele (He / Him)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### ⚡ Curiosidade
-
-> "O apelido **Montanha** surgiu durante uma formação intensa que realizei."
+📍 Brasília, Brasil
 
