@@ -21,3 +21,6 @@
 
 📍 Brasília, Brasil
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16"> [Meu LinkedIn](https://www.linkedin.com/in/jaderssantos/)
+
+
