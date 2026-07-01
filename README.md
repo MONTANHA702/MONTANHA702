@@ -1,6 +1,6 @@
-### 👋 Olá, eu sou Jader Silva
+### 👋 Olá, eu sou Jader Silva (MONTANHA702)
 
-🎓 Pós-graduado em Análise de Dados e Machine Learning
+🎓 Matemático, ADS, Pós-graduado em Análise de Dados e Machine Learning
 ☕ Aprofundando Java para atuação no mercado bancário/corporativo
 🐍 Desenvolvendo aplicações web com Python e Django
 📊 Experiência prévia em criação de materiais educacionais
